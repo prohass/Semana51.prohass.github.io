@@ -1,0 +1,87 @@
+body{
+    background-color: white;
+}
+@media (min-width: 1400px) {
+
+
+    section,
+    .slide {
+      padding-bottom: 12rem;
+      padding-top: 12rem;
+    } 
+    }
+
+.secction02{
+    background-image:url(https://images.unsplash.com/photo-1580823673220-d27acddd3fed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+}
+.secction02>div>h2{
+    text-align: center;
+    color:white;
+    font-style: bold;
+    font-size: 60px;
+}
+.secction02>div>ol{
+    color:white;
+    font-style: bold;
+    font-size: 24px;
+}
+
+section,
+.slide {
+padding: 0;
+height: 100vh;
+}
+section,
+.slide,h1,strong{
+    align-content: center;
+}
+
+
+
+
+
+
+
+
+
+.TitoGGPLOT{
+    width: 90%;
+    margin: 20px 5%;
+    height: 400px;
+}
+
+@media (min-height: 700px){
+    .TitoGGPLOT{
+        height: 400px;  
+    }
+}
+
+@media (min-height: 900px){
+    .TitoGGPLOT{
+        height: 800px;  
+    }
+}
+
+
+
+
+
+
+
+.TitoGGPLOT1{
+    width: 47.8%;
+    margin: 20px 26%;
+    height: 400px;
+}
+
+@media (min-height: 700px){
+    .TitoGGPLOT1{
+        height: 400px;  
+    }
+}
+
+@media (min-height: 900px){
+    .TitoGGPLOT1{
+        height: 800px;  
+    }
+}
